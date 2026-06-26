@@ -1,15 +1,15 @@
 [CGN-Sydney-README.md](https://github.com/user-attachments/files/29234536/CGN-Sydney-README.md)
 <img src="CGNNewsLogo01.png" alt="CGN News" width="240">
 
-# CGN Sydney Subdomain v1.1.0 Alpha
+# CGN Sydney Subdomain v1.2.0 Alpha
 
 **Plain-English + Technical README / Operating Manual**  
 CGN News Subdomain | Static GitHub Pages Site | Australia & Oceania | CGN Brand Identity | Public Landing Page | Site Manifest | SEO | Robots | Sitemap | 404 Page | Static Assets | Main-Site Navigation | Cook Technology Services
 
-**Updated:** 25 June 2026 • 19:57:00Z UTC 
-**Subdomain Build Stamp:** 25 June 2026 • 19:57:00Z UTC | Developed by Cook Technology Services  
-**Subdomain Version:** `CGN SYDNEY SUBDOMAIN v1.1.0 Alpha`  
-**Subdomain Slug:** `cgn-sydney-subdomain-v1.1.0-alpha`  
+**Updated:** 26 June 2026 • 17:52:00Z UTC 
+**Subdomain Build Stamp:** 26 June 2026 • 17:52:00Z UTC | Developed by Cook Technology Services  
+**Subdomain Version:** `CGN SYDNEY SUBDOMAIN v1.2.0 Alpha`  
+**Subdomain Slug:** `cgn-sydney-subdomain-v1.2.0-alpha`  
 **Repository:** `CookInternational/CGN-Sydney`  
 **Site:** https://sydney.cgnnews.net  
 **Production Domain:** `sydney.cgnnews.net`
@@ -21,6 +21,10 @@ Indianapolis, IN 46204
 tips@cgnnews.net | www.cgnnews.net | +1 (317) 442-1437 | Copyright © 2026 | CGN News/Cook Global News Network | All Rights Reserved.
 
 ---
+
+## What's Changed in v1.2.0 Alpha?
+
+v1.2.0 Updated Sports logic.
 
 ## What's Changed in v1.1.0 Alpha?
 
@@ -284,6 +288,6 @@ Check `sitemap.xml`, `robots.txt`, page metadata, and the GitHub Pages deploymen
 
 ---
 
-Last Updated on 25 June 2026 • 19:57:00Z UTC | Developed by Cook Technology Services  
+Last Updated on 26 June 2026 • 17:52:00Z UTC | Developed by Cook Technology Services  
 Copyright © 2026 | CGN News/Cook Global News Network. All Rights Reserved.  
-End of README - CGN Sydney Subdomain v1.1.0 Alpha
+End of README - CGN Sydney Subdomain v1.2.0 Alpha
